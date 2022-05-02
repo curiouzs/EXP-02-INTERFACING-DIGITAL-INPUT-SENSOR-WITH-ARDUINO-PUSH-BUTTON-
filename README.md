@@ -21,17 +21,29 @@ Arduino UNO
 Technical specifications of Arduino UNO :
 
 Microcontroller	ATmega168/328
+
 Microcontroller	ATmega168/328
+
 Operating Voltage	5V
+
 Input Voltage (recommended)	7-12V
+
 Input Voltage (limits)	6-20V
+
 Digital I/O Pins	14 (of which 6 provide PWM output)
+
 Analog Input Pins	6
+
 DC Current per I/O Pin	40 mA
+
 DC Current for 3.3V Pin	50 mA
+
 Flash Memory	16 KB (ATmega168) or 32 KB (ATmega328) of which 2 KB used by boot loader
+
 SRAM	1 KB (ATmega168) or 2 KB (ATmega328)
+
 EEPROM	512 bytes (ATmega168) or 1 KB (ATmega328)
+
 Clock Speed	16 MHz
 
 
@@ -44,7 +56,6 @@ FIGURE-01
 
 
 
-FIGURE-02
 # PROCEDURE 
    Open tinker cad account 
 	1.Select Arduino uno , bread board , digital input and digital output 
@@ -66,8 +77,9 @@ FIGURE-02
 
 
 
-FIGURE -03
+FIGURE -02
 
+![exp 2 rbt](https://user-images.githubusercontent.com/75234646/166266300-512eef01-79b5-42d6-97ac-94097bac5a51.png)
 
 
 
